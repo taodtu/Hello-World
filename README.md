@@ -1,3 +1,3 @@
 # Hello-World
 Repository
-Hello, I am here to leanrn Ruby, I believe one day I am gong to be an awesome web developer!
+Hello, I am here to learn Ruby, I believe one day I am gong to be an awesome web developer!
